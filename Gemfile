@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+gem "jekyll", "~> 4.2.0"
+gem "jekyll-feed", "~> 0.15.1"
+gem "jekyll-sass-converter", "~> 2.2.0"
+gem "jekyll-soopr-seo-tag", "~> 2.7.3"
